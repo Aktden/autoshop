@@ -346,3 +346,18 @@ JOIN Customers c ON o.CustomerID = c.CustomerID;`
 
 3. Все сущности представлены через базовый класс Vehicle
 
+## Пример работы 
+![image](https://github.com/user-attachments/assets/ba0bbfdc-f0df-40ad-814e-2cecdc8ac9d3)
+
+![image](https://github.com/user-attachments/assets/194eb4f5-ce5e-4097-8c16-14ec490be463)
+
+![image](https://github.com/user-attachments/assets/0e3bad5c-3601-4aee-8b15-7e9299ef136f)
+
+![image](https://github.com/user-attachments/assets/2243f551-7c71-48b2-a0a8-5eea9a73aff4)
+
+![image](https://github.com/user-attachments/assets/5f3a23fa-282a-44d0-a094-d535d85c8010)
+
+
+
+
+
